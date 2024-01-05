@@ -1,2 +1,2 @@
-# Q2_Project
+# Q2 Participation 2
 2nd Quarter Project
